@@ -1,0 +1,3 @@
+/home/elliot/Documents/celestial/build/CMakeFiles/Celestial.dir
+/home/elliot/Documents/celestial/build/CMakeFiles/edit_cache.dir
+/home/elliot/Documents/celestial/build/CMakeFiles/rebuild_cache.dir
